@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/autostack-team/autostack-ascii-art/master/ascii-art)
+![Logo](https://raw.githubusercontent.com/autostack-team/autostack-ascii-art/master/ascii-art.png)
 
 Your favorite debugger [autostack](https://github.com/autostack-team/autostack/) now has ASCII art!
 
