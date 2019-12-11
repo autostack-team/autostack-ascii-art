@@ -1,6 +1,14 @@
-![Logo](https://raw.githubusercontent.com/autostack-team/autostack-ascii-art/master/ascii-art.png)
+![Logo](https://raw.githubusercontent.com/autostack-team/autostack-ascii-art/master/ascii_pancake.png)
 
 Your favorite debugger [autostack](https://github.com/autostack-team/autostack/) now has ASCII art!
+
+## Run the script
+
+To see all variations of the pancake ASCII art, execute:
+
+```
+python ascii_pancake.py
+```
 
 ## License
 
